@@ -1,0 +1,10 @@
+env
+node_modules
+__pycache__
+binfpy/
+gibba_fasta.py
+gibbs_data.fasta
+gibbs_data_pairs.fasta
+gibbs_data_single_pair.fasta
+out
+
